@@ -1,0 +1,64 @@
+header {
+    background-color: maroon;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+}
+
+nav {
+    margin: 0;
+    padding: 20px 0;
+}
+
+nav li  {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+    display: inline-block;
+    width: 80px;
+    padding: 0 5px;
+}
+
+body{
+    background-color: black;
+    opacity: 0.7;
+}
+.jumbotron {
+    height: 800px;
+    background-image: url("/Resoruces/Pictures/Village\ security.png");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 10px 0;
+  }
+
+  h1 {
+    top: 90px;
+    color:azure;
+  }
+
+  p {
+    color: azure;
+  }
+
+  a{
+    color: black;
+  }
+
+  a:link {
+    text-decoration: none;
+  }
+
+  a:visited {
+    text-decoration: none;
+  }
+
+  a:hover {
+    color:azure;
+
+  }
+
+  a:active {
+    text-decoration: none;
+  }
